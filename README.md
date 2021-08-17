@@ -4,6 +4,10 @@ The repository includes different types of pratical deep learning models which b
 
 ## Spelling Corrector - Sequence-to-sequence Recurrent Neural Networks
 
+Given a mistakenly spelling word, seq2seq (autoencoder) mode will try to output a correct one.
+
 ## Tense Converter
 
-## Geometry Generator
+## Geometry Generator - Conditional Generative Adversarial Networks
+
+GAN will output a picture with 1 to 3 objects with specific shapes and colors based on given conditions.
